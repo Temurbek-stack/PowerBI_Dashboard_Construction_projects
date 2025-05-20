@@ -59,7 +59,6 @@ Bookmarks are used to open and close the slicer pane without resetting applied f
 ## 🌐 Live Power BI Report
 
 > 🔗 **[Click here to view the dashboard online]([https://app.powerbi.com/your-share-link](https://app.powerbi.com/view?r=eyJrIjoiZGVlMjY1MGYtNjk5Zi00ZDNlLWIwOTUtN2ZhNzJlZjk4NzFmIiwidCI6ImI1OGVhYjJiLTA1YzYtNDcxYi1hYWRhLWNiNjMwY2MyMDJkYyIsImMiOjEwfQ%3D%3D))**  
-> _(Replace with your published report link once uploaded to Power BI Service)_
 
 ---
 
