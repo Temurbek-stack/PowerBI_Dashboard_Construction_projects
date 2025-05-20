@@ -56,17 +56,6 @@ Bookmarks are used to open and close the slicer pane without resetting applied f
 
 ---
 
-## 📁 Files in This Repo
-
-| File | Description |
-|------|-------------|
-| `GOLDBECK_Projekte_Final_Heterogen.csv` | Final dataset with 10,000+ projects |
-| `Dashboard.pbix` | Power BI report file |
-| `GeoJSON/` | Map layers for Region and District |
-| `README.md` | This file |
-
----
-
 ## 🌐 Live Power BI Report
 
 > 🔗 **[Click here to view the dashboard online]([https://app.powerbi.com/your-share-link](https://app.powerbi.com/view?r=eyJrIjoiZGVlMjY1MGYtNjk5Zi00ZDNlLWIwOTUtN2ZhNzJlZjk4NzFmIiwidCI6ImI1OGVhYjJiLTA1YzYtNDcxYi1hYWRhLWNiNjMwY2MyMDJkYyIsImMiOjEwfQ%3D%3D))**  
