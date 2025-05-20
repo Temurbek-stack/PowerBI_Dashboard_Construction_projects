@@ -69,7 +69,7 @@ Bookmarks are used to open and close the slicer pane without resetting applied f
 
 ## 🌐 Live Power BI Report
 
-> 🔗 **[Click here to view the dashboard online](https://app.powerbi.com/your-share-link)**  
+> 🔗 **[Click here to view the dashboard online]([https://app.powerbi.com/your-share-link](https://app.powerbi.com/view?r=eyJrIjoiZGVlMjY1MGYtNjk5Zi00ZDNlLWIwOTUtN2ZhNzJlZjk4NzFmIiwidCI6ImI1OGVhYjJiLTA1YzYtNDcxYi1hYWRhLWNiNjMwY2MyMDJkYyIsImMiOjEwfQ%3D%3D))**  
 > _(Replace with your published report link once uploaded to Power BI Service)_
 
 ---
@@ -80,8 +80,3 @@ Bookmarks are used to open and close the slicer pane without resetting applied f
 - Map visuals are based on open-source administrative boundaries of Germany.
 
 ---
-
-## 📬 Contact
-
-For questions, feedback, or contributions, feel free to open an issue or contact the project author via GitHub.
-
